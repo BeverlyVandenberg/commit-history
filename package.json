@@ -1,0 +1,10 @@
+{
+  "name": "commit-history",
+  "version": "0.1.0",
+  "description": "Watch any GitHub user's commits stack up across their whole coding career as one rising chart \u2014 like star-history, but for commits. Compare users, embed a live SVG in your README.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
